@@ -13,7 +13,7 @@
 		}
 		else
 		{
-			System.out.println("\n It is zero");
+			System.out.println(" It is zero");
 		}
 	}
 }
